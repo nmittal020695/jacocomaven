@@ -30,6 +30,16 @@ public class Main {
 		System.out.println("stop");
 		return "stop";
 	}
+	public static String Run() {
+		System.out.println("start");
+		return "Run";
+	}
+	public static void main3(String[] args) {
+		System.out.println("Hi Java");
+		start();
+
+	}
+	
 
 
 }
