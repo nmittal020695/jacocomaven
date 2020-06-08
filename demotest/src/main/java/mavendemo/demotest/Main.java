@@ -25,6 +25,10 @@ public class Main {
 		System.out.println("start");
 		return "start";
 	}
+	public static String start2() {
+		System.out.println("start");
+		return "start";
+	}
 	
 	public static String stop() {
 		System.out.println("stop");
